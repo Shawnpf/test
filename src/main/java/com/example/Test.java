@@ -8,8 +8,8 @@ public class Test {
         int a = 1;
         int b = 2;
         int c = 4;
-        System.out.println(a+c);
-        System.out.println(c-b);
-        System.out.println(2*b);
+        System.out.println(a);
+        System.out.println(b);
+        System.out.println(c);
     }
 }
