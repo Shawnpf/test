@@ -7,9 +7,9 @@ public class Test {
     public static void main(String[] args) {
         int a = 1;
         int b = 2;
-        int c = 3;
-        System.out.println(a);
-        System.out.println(b);
-        System.out.println(c);
+        int c = 4;
+        System.out.println(a+c);
+        System.out.println(c-b);
+        System.out.println(2*b);
     }
 }
